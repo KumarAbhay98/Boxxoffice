@@ -28,8 +28,7 @@ BoxxOffice is a web application designed to provide users with an engaging movie
 - Interactive movie cards watch functionality.
 
 ## Screenshots
-![Landing Page](<img width="960" alt="Screenshot 2023-08-06 004838" src="https://github.com/KumarAbhay98/Boxxoffice/assets/92244303/16776534-fcbd-434f-8870-bcc7f627dea1">
-)
+![Landing Page]<img width="960" alt="Screenshot 2023-08-06 004838" src="https://github.com/KumarAbhay98/Boxxoffice/assets/92244303/16776534-fcbd-434f-8870-bcc7f627dea1">
 ![Movies Section](link-to-movies-section-screenshot)
 ![About Section](link-to-about-section-screenshot)
 
