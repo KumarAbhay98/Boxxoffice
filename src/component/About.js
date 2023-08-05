@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 const About = () => {
   const handleClick=()=>{
     window.history.back()
@@ -25,6 +24,7 @@ const About = () => {
             </a>
           </nav>
         </div>
+    
         <div className="about-content  text-center">
           <div className="about-content">
             <h1>Welcome to BoxxOffice</h1>
@@ -35,7 +35,6 @@ const About = () => {
               <br/><br/>
               The "More Movies" section has some cool features , you can search movie of your choice and it will show the result for that movie and you can read an overview of that movie by hovering/clciking the movie card. The data of this page is fetched from an API.
               <br/><br/>
-
               The registration and login pages are designed using "FORMIK" for form handling and "YUP" for validation, ensuring a smooth and secure user experience.
               <br/><br/>
               BoxxOffice is created by Abhay Kumar, a passionate web developer with a love for movies and technology. The goal is to provide a user-friendly and visually appealing platform for movie enthusiasts.
