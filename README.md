@@ -93,8 +93,19 @@ To run this project locally, follow these steps:
 Please enjoy your journey through our movie paradise. Your comfort and enjoyment are our top priorities, and we look forward to sharing the world of cinema with you.
 
 
-## Future Plan :
-To implement an authentication system using django and will render the data of featured movie from backend. In short will provide scalability to the website.
+## Future Plan
+
+At BoxxOffice, we are committed to continually enhancing your movie-watching experience. Our vision extends beyond the present, and we're excited to share our ambitious plans for the future:
+
+### Elevating Authentication:
+Our dedication to your security and convenience is unwavering. We're in the process of implementing a cutting-edge authentication system using Django, a renowned framework known for its robustness. This upcoming enhancement will provide you with a secure and personalized experience. Expect streamlined logins, user profiles, and interactions that resonate with your preferences.
+
+### Backend Empowerment:
+We're taking our platform's performance to the next level by harnessing the power of a dynamic backend. Our featured movie data will soon be seamlessly rendered from the backend, ensuring optimized loading times and a seamlessly expanding collection of movies. This transformation will lay the foundation for a more extensive movie library, all while maintaining the ease and quality you've come to expect from BoxxOffice.
+
+As we embark on these exciting endeavors, our commitment to innovation, security, and user satisfaction remains at the forefront. We're thrilled to bring you a future that's teeming with possibilities, ensuring that your cinematic journey with BoxxOffice is unparalleled and ever-evolving.
+
+Stay tuned for updates as we work diligently to make BoxxOffice the ultimate destination for movie enthusiasts.
 
 ## Contributing
 If you'd like to contribute to this project, follow these steps:
