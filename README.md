@@ -77,12 +77,21 @@ To run this project locally, follow these steps:
 4. Start the development server: `npm start`
 
 ## Usage
-<ul>
-  <li>First you will land on 'Landing Page'. There we have given 'register' , 'login' buttons and one other button to enter in featured movie section.</li>
-  <li>On Movie section we have navbar with navlinks and below is a carousel and then choose category and enjoy the movie from available choices. I created a json file of 30+ movies.</li>
-  <li>After exploring movies. Click on More Movies and there you can search any movie and can read about movie and its rating.</li>
-  <li>Then you explore about page to read about website and developer.</li>
-</ul>
+
+1. **Landing Page:**
+   When you first visit our website, you'll land on the 'Landing Page.' Here, you'll find clear and prominent buttons for registration and login. Additionally, there's a button inviting you to discover our featured movie section.
+
+2. **Movie Section:**
+   The 'Movie' section boasts a user-friendly navbar with intuitive navigation links. Above it, a visually appealing carousel showcases our curated selection of featured movies. As you scroll down, you'll encounter a variety of movie categories to choose from. Explore different categories to find movies that cater to your preferences. Our meticulously crafted JSON file encompasses a collection of over 30 movies, ensuring a diverse cinematic experience.
+
+3. **More Movies Exploration:**
+   For more movie options, don't miss our 'More Movies' section. This feature allows you to search for any specific movie, providing detailed information about the movie and its ratings. Discover new titles and dive into their captivating plots.
+
+4. **About Page:**
+   Curious to learn about our website and the dedicated developer behind it? Navigate to the 'About' page. Here, you'll find comprehensive insights into the website's objectives, development process, and the passionate mind driving it all.
+
+Please enjoy your journey through our movie paradise. Your comfort and enjoyment are our top priorities, and we look forward to sharing the world of cinema with you.
+
 
 ## Future Plan :
 To implement an authentication system using django and will render the data of featured movie from backend. In short will provide scalability to the website.
