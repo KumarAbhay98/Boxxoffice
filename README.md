@@ -1,4 +1,4 @@
-<img width="960" alt="Screenshot 2023-08-06 005118" src="https://github.com/KumarAbhay98/Boxxoffice/assets/92244303/a983c802-879a-4055-a07c-ed3db2459b39"># BoxxOffice - Your Movie Catalogue Website
+# BoxxOffice - Your Movie Catalogue Website
 
 
 <img width="151" alt="Screenshot 2023-08-06 004231" src="https://github.com/KumarAbhay98/Boxxoffice/assets/92244303/a1a90ca8-d30b-47a0-ac78-fc12614799f1">
@@ -42,16 +42,14 @@ BoxxOffice is a web application designed to provide users with an engaging movie
 
 
 
-
-![About Section](link-to-about-section-screenshot)
-
 ## Technologies Used
 - React.js
-- CSS
+- CSS(Vanilla)
+- API
 - JavaScript
 - Bootstrap
 - Formik and Yup (for form validation)
-- Other technologies you've used
+- An external CSS stylesheet 
 
 ## Installation
 1. Clone the repository:
