@@ -1,7 +1,7 @@
 # BoxxOffice - Your Movie Catalogue Website
 
-<img width="151" alt="" src="https://github.com/Kuboxxoffice logomarAbhay98/Boxxoffice/assets/92244303/8f4719c5-4648-4c58-87aa-b1f81bf32d04">
 
+<img width="151" alt="Screenshot 2023-08-06 004231" src="https://github.com/KumarAbhay98/Boxxoffice/assets/92244303/a1a90ca8-d30b-47a0-ac78-fc12614799f1">
 
 Welcome to BoxxOffice, a movie catalogue website built using React.js, CSS, and Bootstrap. Explore the world of movies with our user-friendly interface and interactive features.
 
