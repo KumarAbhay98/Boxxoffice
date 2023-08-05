@@ -14,6 +14,7 @@ Visit the live website: [BoxxOffice](https://boxxoffice.netlify.app/)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Future Plan](#future-plan)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -51,8 +52,29 @@ BoxxOffice is a web application designed to provide users with an engaging movie
 - Formik and Yup (for form validation)
 - An external CSS stylesheet 
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/boxxoffice.git
+## Getting Started
+To run this project locally, follow these steps:
+1. Clone this repository: `git clone https://github.com/your-username/boxxoffice.git`
+2. Navigate to the project directory: `cd boxxoffice`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
 
+## Usage
+(1)First you will land on 'Landing Page'. There we have given 'register' , 'login' buttons and one other button to enter in featured movie section.
+(2)On Movie section we have navbar with navlinks and below is a carousel and then choose category and enjoy the movie from available choices. I created a json file of 30+ movies.
+(3)After exploring movies. Click on More Movies and there you can search any movie and can read about movie and its rating.
+(4)Then you explore about page to read about website and developer.
+
+## Future Plan :
+To implement an authentication system using django and will render the data of featured movie from backend. In short will provide scalability to the website.
+
+## Contributing
+If you'd like to contribute to this project, follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature: `git checkout -b feature-name`
+3. Make your changes and commit them: `git commit -m "Add your message"`
+4. Push to the branch: `git push origin feature-name`
+5. Create a pull request detailing your changes.
+
+## License
+This project is licensed under the [MIT License]
