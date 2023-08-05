@@ -60,10 +60,12 @@ To run this project locally, follow these steps:
 4. Start the development server: `npm start`
 
 ## Usage
-(1)First you will land on 'Landing Page'. There we have given 'register' , 'login' buttons and one other button to enter in featured movie section.
-(2)On Movie section we have navbar with navlinks and below is a carousel and then choose category and enjoy the movie from available choices. I created a json file of 30+ movies.
-(3)After exploring movies. Click on More Movies and there you can search any movie and can read about movie and its rating.
-(4)Then you explore about page to read about website and developer.
+<ul>
+  <li>First you will land on 'Landing Page'. There we have given 'register' , 'login' buttons and one other button to enter in featured movie section.</li>
+  <li>On Movie section we have navbar with navlinks and below is a carousel and then choose category and enjoy the movie from available choices. I created a json file of 30+ movies.</li>
+  <li>After exploring movies. Click on More Movies and there you can search any movie and can read about movie and its rating.</li>
+  <li>Then you explore about page to read about website and developer.</li>
+</ul>
 
 ## Future Plan :
 To implement an authentication system using django and will render the data of featured movie from backend. In short will provide scalability to the website.
