@@ -33,7 +33,7 @@ You may also see any lint errors in the console.
 - [Usage](#usage)
 - [Future Plan](#future-plan)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 BoxxOffice is a web application designed to provide users with an engaging movie browsing experience. It includes a landing page, movie catalogue, A search Page with an API integration to give you overview and rating of that movie, about section, registration page, and login page.
@@ -95,5 +95,4 @@ If you'd like to contribute to this project, follow these steps:
 4. Push to the branch: `git push origin feature-name`
 5. Create a pull request detailing your changes.
 
-## License
-This project is licensed under the [MIT License]
+
