@@ -1,4 +1,5 @@
 # BoxxOffice - Your Movie Companion
+Revised repository link for better code structure : boxxofice_revised[https://github.com/KumarAbhay98/Boxxoffice_revised]
 
 Welcome to BoxxOffice, a React-based website for movie lovers!
 
